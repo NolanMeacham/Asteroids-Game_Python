@@ -1,0 +1,8 @@
+# Pycache #
+################
+*.pyc
+*.pyo
+
+# OS Generated files #
+################
+.DS_Store
