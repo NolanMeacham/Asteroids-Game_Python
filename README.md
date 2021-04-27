@@ -3,7 +3,8 @@ A remake of the classic asteroids game using python and the arcade library. Much
 (Programmed using Object Oriented Programming)
 
 ## Getting Started
----Make sure you have Python 3.8.0 or newer and arcade 2.5.5 or new installed 
+---
+Make sure you have Python 3.8.0 or newer and arcade 2.5.5 or new installed 
 and running on your machine. You can install Arcade by opening a terminal 
 and running the following command.
 ```
